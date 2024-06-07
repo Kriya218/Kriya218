@@ -1,5 +1,6 @@
 <h1>👋 Hi, I’m Kriya</h1>
-   <p>I’m currently learning web dev</p> ![image](https://i.pinimg.com/originals/05/5b/a9/055ba9c9df9e85942a22285f771c5d59.gif)
+   <p>I’m currently learning web dev</p> 
+   
 
 
 <!---
